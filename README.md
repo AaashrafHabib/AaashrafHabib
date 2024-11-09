@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎯 I’m currently working on building an advanced MLOps pipeline to fine-tune and serve large-scale models like Llama3.1 with optimized efficiency.<br>🤝 I’m eager to collaborate on projects that involve deploying deep learning models in production environments and developing end-to-end generative AI solutions.<br>👐 I’m seeking assistance in securing an end-of-study internship, ideally in AI, Generative AI ,machine learning, or MLOps.<br>🌱 I’m diving deep into LoRA fine-tuning techniques while also exploring Snowflake frameworks for seamless model fine-tuning and deployment.<br>💬 Feel free to ask me about implementing CI/CD pipelines for containerized web applications using GitHub Actions and Azure Kubernetes Service.
+.<br>👐 I’m seeking assistance in securing an end-of-study internship, ideally in AI, Generative AI ,machine learning, or MLOps.<br>🌱
+🎯 I’m currently working on building an advanced MLOps pipeline to fine-tune and serve large-scale models like Llama3.1 with optimized efficiency.<br>🤝 I’m eager to collaborate on projects that involve deploying deep learning models in production environments and developing end-to-end generative AI solutions  I’m diving deep into LoRA fine-tuning techniques while also exploring Snowflake frameworks for seamless model fine-tuning and deployment.<br>💬 Feel free to ask me about implementing CI/CD pipelines for containerized web applications using GitHub Actions and Azure Kubernetes Service.
 
 
 ## 🌐 Socials:
