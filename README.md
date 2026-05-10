@@ -4,11 +4,6 @@
 
 Currently building production-ready LLM-powered agents with LangGraph and AWS Bedrock. Previously worked on fine-tuning LLaMA models at scale, MLOps pipelines, and multi-agent systems for industrial automation.
 
-## What I'm working on
-
-- Developing and deploying multi-agent systems for production environments
-- Building RAG pipelines and evaluating them with frameworks like RAGAS
-- Exploring agentic architectures with LangGraph and foundation models on AWS
 
 ## Experience
 
